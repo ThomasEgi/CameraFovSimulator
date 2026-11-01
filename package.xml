@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>CameraFOVSimulator</name>
+  <description>Create cameras and visualize their field of view in FreeCAD</description>
+  <version>0.1.0</version>
+  <date>2026-11-01</date>
+  <maintainer email="none@example.com">CameraFOVSimulator</maintainer>
+  <license>MIT</license>
+  <content>
+    <workbench>
+      <classname>CameraFOVSimulatorWorkbench</classname>
+    </workbench>
+  </content>
+</package>
